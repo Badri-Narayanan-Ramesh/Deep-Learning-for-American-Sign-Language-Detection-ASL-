@@ -1,0 +1,4 @@
+- Install all dependencies
+- Go to the correct directory where your gradio_deploy_video.py or gradio_deploy_image.py script is located
+- Run python gradio_deploy_image.py in bash
+- It will start a local server on http://127.0.0.1:7860 
